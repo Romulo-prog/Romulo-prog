@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=#008000:0f172a,100:2563eb&height=180&section=header&text=Rômulo%20Andrade&fontSize=40&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=#008000:,100:2563eb&height=180&section=header&text=Rômulo%20Andrade&fontSize=40&fontColor=ffffff&animation=fadeIn"
     width="100%"
     style="display:block;"
   />
