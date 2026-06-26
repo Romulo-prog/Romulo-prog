@@ -79,9 +79,9 @@ criando projetos cada vez mais completos e acompanhando as tecnologias mais atua
 
 ---
 
-<h2 align="center"> 🌐 Contato </h2><p align="center"><a href="https://github.com/SEU-USUARIO">
+<h2 align="center"> 🌐 Contato </h2><p align="center"><a href="https://github.com/Romulo-prog">
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a><a href="mailto:SEUEMAIL@EMAIL.COM">
+</a><a href="mailto:Romulomelo.13.2010@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a></p>
 
