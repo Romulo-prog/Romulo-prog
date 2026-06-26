@@ -87,7 +87,7 @@ criando projetos cada vez mais completos e acompanhando as tecnologias mais atua
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:#008000,100:2563eb&height=120&section=footer"
     width="100%"
     style="display:block;"
   />
